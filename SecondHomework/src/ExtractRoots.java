@@ -11,7 +11,7 @@ public class ExtractRoots {
         double a = input.nextDouble();
         double b = input.nextDouble();
         double c = input.nextDouble();
-        double d =b*b-4*a*c;
+        double d = b*b-4*a*c;
 
         // Judge the root
         if(d > 0){
